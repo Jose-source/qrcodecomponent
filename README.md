@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot.jpg)
 
 
 ### Links
@@ -39,8 +39,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 I am learning essential CSS concepts from Scrimba's site so I decided to use what I learned.Specifically, the use of main, section, and footer helped arrange the HTML in a way that the CSS felt easier to write. Personally, centering a div within a div was hard for me versus using the Semantic HTML5 markup.
-
-To see how you can add code snippets, see below:
 
 ```html
     <section>
